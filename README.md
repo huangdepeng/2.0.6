@@ -1,6 +1,6 @@
 # hicbit
 
-Blocks for HicROBOT hicbit
+Blocks for HicRobot HicBit
 ## License
 
 MIT

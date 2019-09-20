@@ -1,7 +1,7 @@
 {
     "name": "hicbit",
     "version": "0.0.1",
-    "description": "Blocks for Lobot hicbit",
+    "description": "Blocks for HicRobot HicBit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
